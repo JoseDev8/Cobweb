@@ -1,0 +1,5 @@
+name: CobwebEgg
+version: 1.0.0
+author: JoseDev
+api: [4.0.0]
+main: Cobweb\Loader
